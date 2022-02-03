@@ -12,7 +12,7 @@ Work History:
 - TEAM TA at McGill University - August 2019 to December 2020
 
 Projects/Publications:
-- Francois' Paper
+- Comparative Study of Learning Outcomes for Online Learning Platforms - April 2021 - https://arxiv.org/abs/2104.07763
 - Prometheus AI - May to Sep 2020
     - I worked to model synaptic plasticity in a model of human memory, called the Knowledge Node Network, in the Prometheus AI Lab under Professor Vybihal at McGill University.
 
