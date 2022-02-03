@@ -17,5 +17,5 @@ Projects/Publications:
     - I worked to model synaptic plasticity in a model of human memory, called the Knowledge Node Network, in the Prometheus AI Lab under Professor Vybihal at McGill University.
 
 Awards:
-- [Mitacs Accelerate AwardMitacs Accelerate Award](https://www.mitacs.ca/en/programs/acceleratehttps://www.mitacs.ca/en/programs/accelerate) - Sep 2021
+- [Mitacs Accelerate Award](https://www.mitacs.ca/en/programs/acceleratehttps://www.mitacs.ca/en/programs/accelerate) - Sep 2021
 - TECHNATION Career Ready Regional Rising Star Award - Dec 2020
