@@ -1,3 +1,7 @@
+layout: page
+title: "About Me"
+permalink: /about/
+
 I am an MSc Student in Computer Science at McGill University.
 
 Educational History:
