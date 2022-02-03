@@ -1,4 +1,4 @@
-Hi! My name is Sabina. I am a machine learning engineer at Korbit, and an MSc Student in Computer Science at McGill University studing under Professor Jackie Cheung! I am passionate about NLP and a list of ever growing topics in the field of machine learning. I look forward to connecting with you.
+Hi! My name is Sabina. I am a machine learning engineer at Korbit, and an MSc Student in Computer Science at McGill University studing under Professor Jackie Cheung! I am passionate about NLP and a list of ever growing topics in the field of machine learning.
 
 ![me](./images/profile.jpeg)
 
