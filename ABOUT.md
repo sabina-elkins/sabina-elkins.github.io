@@ -1,5 +1,5 @@
 layout: page
-title: "About Me"
+title: "ABOUT"
 permalink: /about/
 
 I am an MSc Student in Computer Science at McGill University.
