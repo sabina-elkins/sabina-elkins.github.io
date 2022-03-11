@@ -12,6 +12,7 @@ Work History:
 - TEAM TA at McGill University - August 2019 to December 2020
 
 Projects/Publications:
+- [A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions](https://arxiv.org/abs/2203.03724) - March 2022
 - [Comparative Study of Learning Outcomes for Online Learning Platforms](https://arxiv.org/abs/2104.07763) - April 2021
 - Prometheus AI - May to September 2020
     - I worked to model synaptic plasticity in a model of human memory, called the Knowledge Node Network, in the Prometheus AI Lab under Professor Vybihal at McGill University.
