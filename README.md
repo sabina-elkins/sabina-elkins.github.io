@@ -4,7 +4,7 @@ Hi! My name is Sabina. I am a machine learning engineer intern at Korbit, and an
 
 Educational History:
 - MSc in Computer Science at [McGill University](https://www.mcgill.ca/) with [Mila](https://mila.quebec/en/) - September 2021 to now
-- BA&Sc in Cognitive Science (specialization in Computer Science) at McGill University - August 2017 to May 2020
+- BA&Sc in Honours Cognitive Science (specialization in Computer Science) at McGill University - August 2017 to December 2020
 
 Work History:
 - Korbit Technologies Inc. - Machine Learning Intern - September 2021 to now
