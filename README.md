@@ -7,7 +7,7 @@ Educational History:
 - BA&Sc in Honours Cognitive Science (specialization in Computer Science) at McGill University - August 2017 to December 2020
 
 Work History:
-- Korbit Technologies Inc. - Machine Learning Intern - September 2021 to now
+- Korbit Technologies Inc. - Machine Learning Engineer - September 2021 to now
 - Korbit Technologies Inc. - Content Creator - April 2020 to August 2021
 - TEAM TA at McGill University - August 2019 to December 2020
 
