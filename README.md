@@ -12,6 +12,7 @@ Work History:
 - TEAM TA at McGill University - August 2019 to December 2020
 
 Projects/Publications:
+- [Question Personalization in an Intelligent Tutoring System](https://arxiv.org/abs/2206.14145#) - May 2022 - First Author
 - [A New Era: Intelligent Tutoring Systems Will Transform Online Learning for Millions](https://arxiv.org/abs/2203.03724) - March 2022
 - [Comparative Study of Learning Outcomes for Online Learning Platforms](https://arxiv.org/abs/2104.07763) - April 2021
 - Prometheus AI - May to September 2020
